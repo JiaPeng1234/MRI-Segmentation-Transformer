@@ -1,0 +1,10 @@
+
+\.idea/
+
+medseg_dl/__pycache__/
+
+medseg_dl/private/
+
+medseg_dl/model/__pycache__/
+
+medseg_dl/utils/__pycache__/
